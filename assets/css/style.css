@@ -34,6 +34,7 @@ body {
 /* Form */
 .form h3 {
     margin-bottom: 1rem;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.94);
 }
   
 .form-input-container {
@@ -46,6 +47,7 @@ body {
     flex: 1;
     border-radius: 4px;
     background-color: #ffffff6e;
+    font-size: 1rem;
 }
   
 .form button {
@@ -153,6 +155,8 @@ to {
     color: #fff;
     cursor: pointer;
     font-weight: bold;
+    font-size: 1.1rem;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.94);
     transition: transform 0.5s;
     opacity: 0.8;
     transition: 0.4s;
